@@ -1,5 +1,5 @@
 # Learning-C
-A simple approch to learn to program in C to go from a beginner to advanced.  
+A simple approch to learn to program in C and go from a beginner level to an advanced level.  
 
 #### **Section 1: The Basics**
 * **`Number system`**:
