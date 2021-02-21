@@ -1,7 +1,7 @@
 # Learning-C
 A simple approch to learn to program in C to go from a beginner to advanced.  
 
-####  **Section 1: The Basics** 
+###  **Section 1: The Basics** 
 ## **Section 2: Variables, Data types and expressions** 
 ## **Section 3: Control Flow** 
 ## **Section 4: Functions and Program structure** 
