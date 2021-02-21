@@ -1,11 +1,11 @@
 # Learning-C
 A simple approch to learn how to program in C and go from a beginner level to an advanced level.  
 
-#### **Section 1: The Basics**
+#### **Section 1: Introduction**
 * **`Number system`**:
   * Understand Binary, Decimal & Hexadecimal number system.
   * Understand how to represent `integer`, `negative` and `floating point` numbers in those bases.
-  * Understand how to do the 4 basic operations (addition , subtraction, multiplication and division) in those bases. 
+  * Understand how to do the `addition`, `subtraction`, `multiplication` and `division` operations in those bases. 
 * **`Source code`**: Understand the syntax rules for formating source code. 
 * **`Compilation`**: Understand how source code is transformed into an executable file. 
 * **`Command line vs IDE`**: Understand how to compile (Build) and run your program with an IDE and the command line.
