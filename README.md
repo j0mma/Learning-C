@@ -1,4 +1,5 @@
-![C programming icon](https://github.com/j0mma/Learning-C/blob/main/images/C-icons.png)
+
+![C programming icon](https://github.com/j0mma/Learning-C/blob/main/images/C-icons.png) 
 
 # Learn to program with C
 A simple approch to learn how to program in C and go from a beginner level to an advanced level.  
@@ -24,24 +25,39 @@ A simple approch to learn how to program in C and go from a beginner level to an
 * **`Control statements`**: Understand when and how to use those statements
   * `Break` and `Continue`
   * `Goto` and `Label` 
-#### **Section 4: Functions, Program structure and The Preprocessor**
-* **`Functions`**: Understand what is a function and how to use it. Also understand how and when to use the `return` statement. 
+#### **Section 4: Arrays**
+* **`Arrays`**:
+* **`Character arrays`:
+* **``Multi dimensional arrays`:
+#### **Section 5: Functions**
+* **`Functions`**: 
+  * Understand what is a function, how and when to use it.  
+  * Understand the difference between arguments called by `value` and by `reference` 
+  * Understant the difference between and `local` variables.
+  * Understand how to `return` function result.  
+#### **Section 6: Pointers and Memory**
+* **`Pointers`**:
+  * Understand `pointers` and `adresses`.
+  * Understand how and when to use pointers for variables and functions.
+  * Understand dynamic memory allocation
+* **`Memory`**:
+  * Understand the program memory layout
+  * Understand how and where all the data (variables, constants, functions, etc...) related to a program is stored.  
+#### **Section 7: Structures and Extended Data Types** 
+#### **Section 8: Input and Output operations** 
+#### **Section 9: Multi file program structure** 
 * **`Program structure`**: 
-  * Understand how to write program with multiple source code files.
-  * Understand variables scope and when to use the keywords `static` and `extern` for variables.
-  * Understand functions scope and when to use the keywords `static` and `extern` for functions.
+  * Understand how to write and compile programs with multiple source files.
+  * Understand variables scope between modules (source files).
+  * Understand functions scope between modules (source files).
 * **`Preprocessor`**:
   * Understand macros with the `#define` statement and `inline` functions.
   * Understand program extendability, portability, the `#` and the `##` operators.
   * Understand conditional compilation to master when to use:
     * The `#ifdef`, `#endif`, `#else`, `#ifndef` statements.
     * The `#if` and `#elif` statements.
-    * The `#undef` statements. 
-#### **Section 5: Pointers, Arrays and Memory**
-* **`Pointers`**:
-* **`Arrays`**:
-* **`Memory`**
-#### **Section 6: Structures and Extended Data Types** 
-#### **Section 7: Input and Output operations** 
-#### **Section 8: Debugging programs** 
+    * The `#undef` statements.
+#### **Section 10: Debugging programs** 
+* **`Debugging with an IDE`**: Understand how to debug program with IDE tools.
+* **`Debugging with GDB`**: Understand how to use the GNU debugger.
 #### **Section 9: UNIX**
