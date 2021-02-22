@@ -26,23 +26,22 @@ A simple approch to learn how to program in C and go from a beginner level to an
   * `Break` and `Continue`
   * `Goto` and `Label` 
 #### **Section 4: Arrays**
-* **`Arrays`**:
-* **`Character arrays`**:
-* **``Multi dimensional arrays`**:
+* **`Arrays`**: Understand what are arrays and how they work.
+* **`Character arrays`**: Understand the particularity with character arrays.
+* **`Multi dimensional arrays`**: Understand the use and the meaning of multi dimensional arrays.
 #### **Section 5: Functions**
 * **`Functions`**: 
   * Understand what is a function, how and when to use it.  
   * Understand the difference between arguments called by `value` and by `reference` 
   * Understand the difference between and `local` variables.
-  * Understand how to `return` function result.  
 #### **Section 6: Pointers and Memory**
 * **`Pointers`**:
   * Understand `pointers` and `adresses`.
   * Understand how and when to use pointers for variables and functions.
-  * Understand dynamic memory allocation
 * **`Memory`**:
   * Understand the program memory layout
   * Understand how and where all the data (variables, constants, functions, etc...) related to a program is stored.  
+  * Understand dynamic memory allocation.
 #### **Section 7: Structures and Extended Data Types** 
 #### **Section 8: Input and Output operations** 
 #### **Section 9: Multi file program structure** 
