@@ -27,13 +27,13 @@ A simple approch to learn how to program in C and go from a beginner level to an
   * `Goto` and `Label` 
 #### **Section 4: Arrays**
 * **`Arrays`**:
-* **`Character arrays`:
-* **``Multi dimensional arrays`:
+* **`Character arrays`**:
+* **``Multi dimensional arrays`**:
 #### **Section 5: Functions**
 * **`Functions`**: 
   * Understand what is a function, how and when to use it.  
   * Understand the difference between arguments called by `value` and by `reference` 
-  * Understant the difference between and `local` variables.
+  * Understand the difference between and `local` variables.
   * Understand how to `return` function result.  
 #### **Section 6: Pointers and Memory**
 * **`Pointers`**:
