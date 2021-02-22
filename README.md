@@ -65,4 +65,4 @@ A simple approch to learn how to program in C and go from a beginner level to an
 #### **Section 10: Debugging programs** 
 * **`Debugging with an IDE`**: Understand how to debug program with IDE tools.
 * **`Debugging with GDB`**: Understand how to use the GNU debugger.
-#### **Section 9: UNIX**
+
