@@ -43,6 +43,12 @@ A simple approch to learn how to program in C and go from a beginner level to an
   * Understand how and where all the data (variables, constants, functions, etc...) related to a program is stored.  
   * Understand dynamic memory allocation.
 #### **Section 7: Structures and Extended Data Types** 
+  * **`Structures`**:
+    * Understand the basics of Structures.
+    * Understand the relation between structures and functions.
+    * Understand arrays of structures, structures containing arrays, pointers to structures and structure containing pointers. 
+  * **`Unions`**: Understand what are `unions`, how and when they are used.
+  * **`Bit-fields`**: Understand what are `bit-fields`, how and when they are used. 
 #### **Section 8: Input and Output operations** 
 #### **Section 9: Multi file program structure** 
 * **`Program structure`**: 
