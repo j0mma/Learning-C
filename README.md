@@ -1,4 +1,6 @@
-# Learning-C
+![C programming icon](https://github.com/j0mma/Learning-C/blob/main/images/C-icons.png)
+
+# Learn to program with C
 A simple approch to learn how to program in C and go from a beginner level to an advanced level.  
 
 #### **Section 1: Introduction**
@@ -35,7 +37,10 @@ A simple approch to learn how to program in C and go from a beginner level to an
     * The `#ifdef`, `#endif`, `#else`, `#ifndef` statements.
     * The `#if` and `#elif` statements.
     * The `#undef` statements. 
-#### **Section 5: Pointers, Arrays and Character strings** 
+#### **Section 5: Pointers, Arrays and Memory**
+* **`Pointers`**:
+* **`Arrays`**:
+* **`Memory`**
 #### **Section 6: Structures and Extended Data Types** 
 #### **Section 7: Input and Output operations** 
 #### **Section 8: Debugging programs** 
