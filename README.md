@@ -50,8 +50,8 @@ A simple approch to learn how to program in C and go from a beginner level to an
   * **`Unions`**: Understand what are `unions`, how and when they are used.
   * **`Bit-fields`**: Understand what are `bit-fields`, how and when they are used. 
 #### **Section 8: Input and Output operations** 
-* **`Formatted I/O`**:
-* **`File I/O`**: 
+* **`Formatted I/O`**: Understand how to do input and output operations with formatted and unformatted character and text.
+* **`File I/O`**: Understand how to do input and output file operations.  
 #### **Section 9: Multi file program structure** 
 * **`Program structure`**: 
   * Understand how to write and compile programs with multiple source files.
