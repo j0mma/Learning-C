@@ -3,7 +3,7 @@ A simple approch to learn how to program in C and go from a beginner level to an
 
 #### **Section 1: Introduction**
 * **`Number system`**:
-  * Understand Binary, Decimal & Hexadecimal number system.
+  * Understand Binary, Octal, Decimal & Hexadecimal number system.
   * Understand how to represent `integer`, `negative` and `floating point` numbers in these number system.
   * Understand how to do the `addition`, `subtraction`, `multiplication` and `division` operations in these number system. 
 * **`Source code`**: Understand the syntax rules for writting and formating source code. 
