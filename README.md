@@ -18,7 +18,7 @@ A simple approch to learn how to program in C and go from a beginner level to an
 #### **Section 3: Control Flow** 
 * **`Conditionals`**: Understand the `If-Else`, `Else-If` and `Switch` conditional structures.
 * **`Loops`**: Understand the `while`, `for` and `do-while` loop structures. 
-* **`Control statements`**: Understand when and how to use those statements
+* **`Control statements`**: Understand how and when to use the statements below:
   * `Break` and `Continue`
   * `Goto` and `Label` 
 #### **Section 4: Arrays**
