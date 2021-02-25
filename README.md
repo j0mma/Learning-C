@@ -11,9 +11,8 @@ A simple approch to learn how to program in C and go from a beginner level to an
 * **`Command line vs IDE`**: Understand how to compile (Build) and run your program with an IDE and the command line.
 #### **Section 2: Data types, Operators and Expressions** 
 * **`Data types`**: 
-  * Understand how different data types (numbers, characters) are represented in C.
-  * Understand the sizes of each data type representation.
-  * Understand how to declare and initialize variables or constants.
+  * Understand how different data types (numbers, characters) are represented.
+  * Understand how variables are declared and initialized.
 * **`Operators`**: Understand how operators (arithmetic, relational and logical, bitwise) works in C.
 * **`Expressions`**: Understand how different expressions are evaluated in C. 
 #### **Section 3: Control Flow** 
