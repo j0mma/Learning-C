@@ -1,6 +1,3 @@
-
-![C programming icon](https://github.com/j0mma/Learning-C/blob/main/images/C-icons.png) 
-
 # Learn to program with C
 A simple approch to learn how to program in C and go from a beginner level to an advanced level.  
 
