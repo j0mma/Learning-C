@@ -1,4 +1,4 @@
-# Learn to program with C
+# Learn programming with C
 A simple approch to learn how to program in C and go from a beginner level to an advanced level. 
 
 #### **Section 1: Introduction**
